@@ -40,4 +40,4 @@ time.sleep(2)
 driver.find_element(By.CLASS_NAME,"NextButton__btn_next__kfLFW").click()
 time.sleep(2)
 
-# input()
+
